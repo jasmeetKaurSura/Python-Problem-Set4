@@ -1,3 +1,4 @@
+# this file fetch all files in the given base path in your computer
 import os
 from os import scandir
        
